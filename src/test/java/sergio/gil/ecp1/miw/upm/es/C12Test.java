@@ -1,4 +1,4 @@
-package es.upm.miw.spai.ecp1;
+package sergio.gil.ecp1.miw.upm.es;
 
 import static org.junit.Assert.*;
 
